@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3796285458
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: sceneassetbundle
+      Dependencies:
+        Dependency_0: textureassetbundle
+        Dependency_1: carmeshtexture
+        Dependency_2: scenefilesassetbundle
+    Info_1:
+      Name: textureassetbundle
+      Dependencies: {}
+    Info_2:
+      Name: musicbundle
+      Dependencies: {}
+    Info_3:
+      Name: carmeshtexture
+      Dependencies:
+        Dependency_0: scenefilesassetbundle
+    Info_4:
+      Name: scenefilesassetbundle
+      Dependencies:
+        Dependency_0: carmeshtexture

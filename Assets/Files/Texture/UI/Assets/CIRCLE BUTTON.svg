@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg35169"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="CIRCLE BUTTON.svg"
+   inkscape:export-filename="CIRCLE BUTTON.png"
+   inkscape:export-xdpi="48.12101"
+   inkscape:export-ydpi="48.12101"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview35171"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.36257716"
+     inkscape:cx="930.83635"
+     inkscape:cy="1056.3269"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs35166">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient36105">
+      <stop
+         style="stop-color:#008cff;stop-opacity:1;"
+         offset="0"
+         id="stop36101" />
+      <stop
+         style="stop-color:#ff00ab;stop-opacity:1;"
+         offset="1"
+         id="stop36103" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient36105"
+       id="linearGradient36107"
+       x1="107.62224"
+       y1="54.242619"
+       x2="415.87637"
+       y2="450.88754"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter37263"
+       x="-0.025760391"
+       y="-0.025305304"
+       width="1.0754019"
+       height="1.0745682">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood37253" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite37255" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3.4383439"
+         result="blur"
+         id="feGaussianBlur37257" />
+      <feOffset
+         dx="12"
+         dy="12"
+         result="offset"
+         id="feOffset37259" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite37261" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:url(#linearGradient36107);stroke:#0e0051;stroke-width:9.387;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1;filter:url(#filter37263);stroke-dasharray:9.38700008, 28.16100025;stroke-opacity:1;stroke-dashoffset:0"
+       id="path36076"
+       cy="256"
+       cx="256"
+       r="251.25671" />
+  </g>
+</svg>

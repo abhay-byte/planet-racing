@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2127578503
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bde9bd027115468c2d070407044b5d53
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Audio/Songs/people-and-trees-130825.mp3
+- Assets/AssetBundle/Audio/Songs/pasilda-141808.mp3
+- Assets/AssetBundle/Audio/Songs/red-tape-134710.mp3
+- Assets/AssetBundle/Audio/Songs/motivational-inspiring-piano-9837.mp3
+- Assets/AssetBundle/Audio/Songs/a-true-friend-144314.mp3
+- Assets/AssetBundle/Audio/Songs/delirious-140512.mp3
+- Assets/AssetBundle/Audio/Songs/nature-calls-136344.mp3
+- Assets/AssetBundle/Audio/Songs/in-a-magical-forest-144306.mp3
+- Assets/AssetBundle/Audio/Songs/leonell-cassio-stuck-in-a-dream-ft-juhi-perumal-110345.mp3
+- Assets/AssetBundle/Audio/Songs/the-say-123548.mp3
+- Assets/AssetBundle/Audio/Songs/black-box-ficx-your-heart-129460.mp3
+- Assets/AssetBundle/Audio/Songs/acoustic-indie-folk-years-113186.mp3
+- Assets/AssetBundle/Audio/Songs/life-phonk-dnb-142736.mp3
+- Assets/AssetBundle/Audio/Songs/perfect-phonk-142735.mp3
+- Assets/AssetBundle/Audio/Songs/chilled-acoustic-indie-folk-instrumental-background-music-for-videos-5720.mp3
+- Assets/AssetBundle/Audio/Songs/waterfall-ambient-chill-music-and-nature-sounds-3627.mp3
+Dependencies: []

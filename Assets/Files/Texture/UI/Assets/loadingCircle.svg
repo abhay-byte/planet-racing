@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg99985"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="loadingCircle.svg"
+   inkscape:export-filename="loadingCircle.png"
+   inkscape:export-xdpi="49.865032"
+   inkscape:export-ydpi="49.865032"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview99987"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.36257716"
+     inkscape:cx="845.33731"
+     inkscape:cy="1179.0594"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs99982">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Electrize"
+       id="filter110069"
+       x="-0.09375"
+       y="-0.09375"
+       width="1.1875"
+       height="1.1875">
+      <feGaussianBlur
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur110059" />
+      <feComponentTransfer
+         in="blur"
+         result="fbSourceGraphic"
+         id="feComponentTransfer110067">
+        <feFuncR
+           type="table"
+           tableValues="0 1 0 1 0"
+           id="feFuncR110061" />
+        <feFuncG
+           type="table"
+           tableValues="0 1 0 1 0"
+           id="feFuncG110063" />
+        <feFuncB
+           type="table"
+           tableValues="0 1 0 1 0"
+           id="feFuncB110065" />
+      </feComponentTransfer>
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix110071" />
+      <feGaussianBlur
+         id="feGaussianBlur110073"
+         stdDeviation="2"
+         result="blur"
+         in="fbSourceGraphic" />
+      <feComponentTransfer
+         id="feComponentTransfer110075"
+         in="blur"
+         result="fbSourceGraphic">
+        <feFuncR
+           id="feFuncR110077"
+           type="table"
+           tableValues="0 1 0 1 0" />
+        <feFuncG
+           id="feFuncG110079"
+           type="table"
+           tableValues="0 1 0 1 0" />
+        <feFuncB
+           id="feFuncB110081"
+           type="table"
+           tableValues="0 1 0 1 0" />
+      </feComponentTransfer>
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix110083" />
+      <feGaussianBlur
+         id="feGaussianBlur110085"
+         stdDeviation="2"
+         result="blur"
+         in="fbSourceGraphic" />
+      <feComponentTransfer
+         id="feComponentTransfer110087"
+         in="blur"
+         result="fbSourceGraphic">
+        <feFuncR
+           id="feFuncR110089"
+           type="table"
+           tableValues="0 1 0 1 0" />
+        <feFuncG
+           id="feFuncG110091"
+           type="table"
+           tableValues="0 1 0 1 0" />
+        <feFuncB
+           id="feFuncB110093"
+           type="table"
+           tableValues="0 1 0 1 0" />
+      </feComponentTransfer>
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix110095" />
+      <feGaussianBlur
+         id="feGaussianBlur110097"
+         stdDeviation="2"
+         result="blur"
+         in="fbSourceGraphic" />
+      <feComponentTransfer
+         id="feComponentTransfer110099"
+         in="blur"
+         result="fbSourceGraphic">
+        <feFuncR
+           id="feFuncR110101"
+           type="table"
+           tableValues="0 1 0 1 0" />
+        <feFuncG
+           id="feFuncG110103"
+           type="table"
+           tableValues="0 1 0 1 0" />
+        <feFuncB
+           id="feFuncB110105"
+           type="table"
+           tableValues="0 1 0 1 0" />
+      </feComponentTransfer>
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix110107" />
+      <feGaussianBlur
+         id="feGaussianBlur110109"
+         stdDeviation="2"
+         result="blur"
+         in="fbSourceGraphic" />
+      <feComponentTransfer
+         id="feComponentTransfer110111"
+         in="blur"
+         result="fbSourceGraphic">
+        <feFuncR
+           id="feFuncR110113"
+           type="table"
+           tableValues="0 1 0 1 0" />
+        <feFuncG
+           id="feFuncG110115"
+           type="table"
+           tableValues="0 1 0 1 0" />
+        <feFuncB
+           id="feFuncB110117"
+           type="table"
+           tableValues="0 1 0 1 0" />
+      </feComponentTransfer>
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix110119" />
+      <feGaussianBlur
+         id="feGaussianBlur110121"
+         stdDeviation="2"
+         result="blur"
+         in="fbSourceGraphic" />
+      <feComponentTransfer
+         id="feComponentTransfer110123"
+         in="blur"
+         result="fbSourceGraphic">
+        <feFuncR
+           id="feFuncR110125"
+           type="table"
+           tableValues="0 1 0 1 0" />
+        <feFuncG
+           id="feFuncG110127"
+           type="table"
+           tableValues="0 1 0 1 0" />
+        <feFuncB
+           id="feFuncB110129"
+           type="table"
+           tableValues="0 1 0 1 0" />
+      </feComponentTransfer>
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix110131" />
+      <feGaussianBlur
+         id="feGaussianBlur110133"
+         stdDeviation="2"
+         result="blur"
+         in="fbSourceGraphic" />
+      <feComponentTransfer
+         id="feComponentTransfer110135"
+         in="blur"
+         result="fbSourceGraphic">
+        <feFuncR
+           id="feFuncR110137"
+           type="table"
+           tableValues="0 1 0 1 0" />
+        <feFuncG
+           id="feFuncG110139"
+           type="table"
+           tableValues="0 1 0 1 0" />
+        <feFuncB
+           id="feFuncB110141"
+           type="table"
+           tableValues="0 1 0 1 0" />
+      </feComponentTransfer>
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix110143" />
+      <feGaussianBlur
+         id="feGaussianBlur110145"
+         stdDeviation="2"
+         result="blur"
+         in="fbSourceGraphic" />
+      <feComponentTransfer
+         id="feComponentTransfer110147"
+         in="blur"
+         result="fbSourceGraphic">
+        <feFuncR
+           id="feFuncR110149"
+           type="table"
+           tableValues="0 1 0 1 0" />
+        <feFuncG
+           id="feFuncG110151"
+           type="table"
+           tableValues="0 1 0 1 0" />
+        <feFuncB
+           id="feFuncB110153"
+           type="table"
+           tableValues="0 1 0 1 0" />
+      </feComponentTransfer>
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix110155" />
+      <feGaussianBlur
+         id="feGaussianBlur110157"
+         stdDeviation="2"
+         result="blur"
+         in="fbSourceGraphic" />
+      <feComponentTransfer
+         id="feComponentTransfer110159"
+         in="blur"
+         result="fbSourceGraphic">
+        <feFuncR
+           id="feFuncR110161"
+           type="table"
+           tableValues="0 1 0 1 0" />
+        <feFuncG
+           id="feFuncG110163"
+           type="table"
+           tableValues="0 1 0 1 0" />
+        <feFuncB
+           id="feFuncB110165"
+           type="table"
+           tableValues="0 1 0 1 0" />
+      </feComponentTransfer>
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix110167" />
+      <feGaussianBlur
+         id="feGaussianBlur110169"
+         stdDeviation="2"
+         result="blur"
+         in="fbSourceGraphic" />
+      <feComponentTransfer
+         id="feComponentTransfer110171"
+         in="blur"
+         result="component">
+        <feFuncR
+           id="feFuncR110173"
+           type="table"
+           tableValues="0 1 0 1 0" />
+        <feFuncG
+           id="feFuncG110175"
+           type="table"
+           tableValues="0 1 0 1 0" />
+        <feFuncB
+           id="feFuncB110177"
+           type="table"
+           tableValues="0 1 0 1 0" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       inkscape:label="Oil Slick"
+       inkscape:menu="Overlays"
+       inkscape:menu-tooltip="Rainbow-colored semitransparent oily splotches"
+       style="color-interpolation-filters:sRGB;"
+       id="filter112058"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feTurbulence
+         baseFrequency="0.143"
+         numOctaves="5"
+         type="fractalNoise"
+         id="feTurbulence112046" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -3"
+         id="feColorMatrix112048" />
+      <feMorphology
+         result="result3"
+         radius="2.7"
+         operator="dilate"
+         id="feMorphology112050" />
+      <feTurbulence
+         baseFrequency="0.121"
+         numOctaves="2"
+         result="result91"
+         id="feTurbulence112052" />
+      <feDisplacementMap
+         result="result4"
+         scale="18.5"
+         yChannelSelector="A"
+         xChannelSelector="R"
+         in="result3"
+         in2="result91"
+         id="feDisplacementMap112054" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="atop"
+         in="result4"
+         id="feComposite112056" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#0055d4;stroke-width:43.9139;stroke-linejoin:bevel;fill-opacity:1;filter:url(#filter110069)"
+       id="path100892"
+       cx="256"
+       cy="256"
+       r="256" />
+    <circle
+       style="fill:#ffff00;stroke-width:20.6432;stroke-linejoin:bevel;filter:url(#filter112058);opacity:1"
+       id="path103108"
+       cx="254.91891"
+       cy="252"
+       r="225" />
+  </g>
+</svg>

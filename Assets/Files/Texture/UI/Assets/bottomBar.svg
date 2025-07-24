@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="bottomBar.svg"
+   inkscape:export-filename="bottomBar.png"
+   inkscape:export-xdpi="129.59436"
+   inkscape:export-ydpi="129.59436"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0255231"
+     inkscape:cx="1089.6878"
+     inkscape:cy="495.84452"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter15375"
+       x="-0.13662777"
+       y="-0.10775918"
+       width="1.2732557"
+       height="1.2155182">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.2575667"
+         id="feGaussianBlur15377" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter15379"
+       x="-0.088001322"
+       y="-0.068328177"
+       width="1.1760026"
+       height="1.1366564">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.6956834"
+         id="feGaussianBlur15381" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#00004d;stroke-width:1.00367;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -47.338691,180.0095 7.5313526,81.809441 H 353.05789 L 297.3499,181.15061 Z"
+       id="path2254-7"
+       inkscape:label="path2254-7"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="bottomBar.png"
+       inkscape:export-xdpi="129.75699"
+       inkscape:export-ydpi="129.75699" />
+    <path
+       style="display:none;opacity:1;mix-blend-mode:normal;fill:#0079ff;fill-opacity:1;stroke:#0000b9;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter15375)"
+       d="m 342.06115,101.39196 -12.58785,-0.18243 -34.3871,59.56021 13.77224,-0.5473 z"
+       id="path3452"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="display:none;mix-blend-mode:normal;fill:#00ffff;fill-opacity:1;stroke:#ff00b9;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter15379)"
+       d="m 341.41869,101.0558 -11.85812,-0.18243 -34.3871,59.56021 14.86684,-0.18243 z"
+       id="path3452-9"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="display:none;fill:#00ffff;fill-opacity:1;stroke:#ff00b9;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 342.51328,101.01019 -13.13514,-0.36486 -34.3871,59.56021 14.13711,-0.18243 z"
+       id="path3452-9-9"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>

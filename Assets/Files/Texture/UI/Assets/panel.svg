@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg55415"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="panel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview55417"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.18128858"
+     inkscape:cx="1701.7067"
+     inkscape:cy="1268.6955"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs55412">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient56358">
+      <stop
+         style="stop-color:#ff0060;stop-opacity:1;"
+         offset="0"
+         id="stop56354" />
+      <stop
+         style="stop-color:#ff9908;stop-opacity:1;"
+         offset="1"
+         id="stop56356" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient56358"
+       id="linearGradient56364"
+       x1="-124.78378"
+       y1="275.7027"
+       x2="899.21625"
+       y2="275.7027"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient56364);fill-rule:evenodd;stroke-width:0.672818;fill-opacity:1"
+       id="rect56329"
+       width="1024"
+       height="512"
+       x="-124.78378"
+       y="19.702703"
+       ry="17.513514" />
+  </g>
+</svg>

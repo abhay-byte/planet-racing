@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg46382"
+   sodipodi:docname="Arrow.svg"
+   inkscape:export-filename="arrow.png"
+   inkscape:export-xdpi="14.514284"
+   inkscape:export-ydpi="14.514284"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview46384"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.18128858"
+     inkscape:cx="951.5216"
+     inkscape:cy="879.81273"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs46379" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:export-filename="arrow.png"
+     inkscape:export-xdpi="14.703275"
+     inkscape:export-ydpi="14.703275">
+    <ellipse
+       style="fill:none;stroke:none;stroke-width:11.517;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:11.5170002, 46.06800079;fill-opacity:1;stroke-dashoffset:0;stroke-opacity:1"
+       id="path100566"
+       ry="442.24161"
+       rx="442.24164"
+       cy="254.96933"
+       cx="251.87338" />
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:64.6211;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 472.0926,463.60873 C 31.558624,241.01114 31.558624,241.01114 31.558624,241.01114"
+       id="path47295" />
+    <path
+       style="display:inline;fill:#1a1a1a;stroke:#ffffff;stroke-width:64.6211;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 30.82146,238.01028 C 478.20027,16.229869 478.20027,16.229869 478.20027,16.229869"
+       id="path47297" />
+  </g>
+</svg>

@@ -1,0 +1,719 @@
+ManifestFileVersion: 0
+CRC: 3542198607
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4dd5ed6cf1c162231165ac19560df5a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8982acea364c234ca63c48ccc5169dd3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a7443357ba9cb024f9e0f59d75c1c066, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1638ad5828bedba4fa6fa35c6f7083b8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c01700fd266d6914ababb731e09af2eb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5617ea171cb08e74ea01f19650a868aa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfda56da833e2384a9677cd3c976a436, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f21f170b640032a4ba47bfe9e6497f01, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d21dcc2386d650c4597f3633c75a1f98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66f335fb1ffd8684294ad653bf1c7564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a4fd7d3882af82046b3945e7a77b5ef3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ccf1aba9553839d41ae37dd52e9ebcce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b2db86121404754db890f4c8dfe81b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 81180773991d8724ab7f2d216912b564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 012d3263da3d1234bb848967c99084f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c5e1dc532bcb41949b58bc4f2abfbb7e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 899c54efeace73346a0a16faa3afe726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97c23e3b12dc18c42a140437e53d3951, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d58d97658d3ad7348aab703773cc5572, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72ece51f2901e7445ab60da3685d6b5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5485954d14dfb9a4c8ead8edb0ded5b1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b634000b1fe567b4c94f944178b5e9a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a16748d9461eae46a725db9776d5390, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57d3581c7ab3ffb45830de34e9ba41c7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29fa0085f50d5e54f8144f766051a691, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Cinemachine
+  ClassName: Cinemachine.CinemachineBlendDefinition
+- AssemblyName: Cinemachine
+  ClassName: Cinemachine.CinemachineBrain/BrainEvent
+- AssemblyName: Cinemachine
+  ClassName: Cinemachine.CinemachineBrain/VcamActivatedEvent
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.BoolParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ClampedFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ClampedIntParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ColorParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.FloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.FloatRangeParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.MinFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.NoInterpTextureParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.TextureParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Vector2Parameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Vector4Parameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.DepthOfFieldModeParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.FilmGrainLookupParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.MotionBlurModeParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.MotionBlurQualityParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.TonemappingModeParameter
+- AssemblyName: Unity.Timeline
+  ClassName: UnityEngine.Timeline.MarkerList
+- AssemblyName: Unity.Timeline
+  ClassName: UnityEngine.Timeline.TimelineAsset/EditorSettings
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+Assets:
+- Assets/Files/Planets/Track1/Color.txt
+- Assets/Files/Planets/Track12[FantasyWorld]/MushroomHead.mat
+- Assets/Files/Planets/Track1[GrassField]/ReflectionProbe-2.exr
+- Assets/Files/Planets/Track3/Plane3.blend
+- Assets/Files/Planets/Track8[SnowWorld]/Planet8.renderTexture
+- Assets/Files/Planets/Track7/Planet7.renderTexture
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-20_comp_dir.png
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-13_comp_dir.png
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-10_comp_dir.png
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-9_comp_light.exr
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-22_comp_dir.png
+- Assets/Files/Planets/Track10/InstancedIndirectGrassVertexColor.jpg
+- Assets/Files/Planets/Track2[SandWorld]/ReflectionProbe-1.exr
+- Assets/Files/Planets/Track1[GrassField]/ReflectionProbe-9.exr
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-13_comp_dir.png
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-17_comp_light.exr
+- Assets/Files/Planets/Track6[SnowWorld]/Global Volume Profile 1.asset
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-4_comp_dir.png
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-9_comp_light.exr
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-10_comp_dir.png
+- Assets/Files/Planets/Track5/GateEmission.png
+- Assets/Files/Planets/Track3/MatGround.mat
+- Assets/Files/Planets/Track1[GrassField]/ReflectionProbe-11.exr
+- Assets/Files/Planets/Track6/MountainMat6.mat
+- Assets/Files/Planets/Track11[IslandTropical]/SkyBox11.mat
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-4_comp_dir.png
+- Assets/Files/Planets/Track4/waterShader01.shadergraph
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-7_comp_light.exr
+- Assets/Files/Planets/Track7/8k_sun.jpg
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-8_comp_dir.png
+- Assets/Files/Planets/Track9[FireWorld]/Lightmap-0_comp_dir.png
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-3_comp_light.exr
+- Assets/Files/Planets/Track12[FantasyWorld]/RoadMat12.mat
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-0_comp_light.exr
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-3_comp_light.exr
+- Assets/Files/Planets/Track1[GrassField]/ReflectionProbe-16.exr
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-7_comp_dir.png
+- Assets/Files/Planets/Track8[CrystalWorld]/SkyBox6 (2).mat
+- Assets/Files/Planets/Track10[SandWorld]/Tornado10.prefab
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-6_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/Global Volume Profile.asset
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-2_comp_dir.png
+- Assets/Files/Planets/Track10/RockMat.mat
+- Assets/Files/Planets/Track4/DivideEmission.png
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-1_comp_dir.png
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-15_comp_dir.png
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-6_comp_light.exr
+- Assets/Files/Planets/Track11[IslandTropical]/GroundMat11.mat
+- Assets/Files/Planets/Track4/GroundMaterial4.mat
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-11_comp_light.exr
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-19_comp_light.exr
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-10_comp_light.exr
+- Assets/Files/Planets/Track5/White.mat
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-5_comp_light.exr
+- Assets/Files/Planets/Track4/Bridge.blend
+- Assets/Files/Planets/Track6/AdvSkyBox6.mat
+- Assets/Files/Planets/Track9[FireWorld]/Lightmap-1_comp_light.exr
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-9_comp_light.exr
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-7_comp_dir.png
+- Assets/Files/Planets/Track2/Track2.asset
+- Assets/Files/Planets/Track2/SkyBox2.mat
+- Assets/Files/Planets/Track3/pinkBirchtree.mat
+- Assets/Files/Planets/Track12[FantasyWorld]/GlowYellow.mat
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-6_comp_dir.png
+- Assets/Files/Planets/Track3/GrassTrack3.mat
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-6_comp_light.exr
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-10_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/ReflectionProbe-0.exr
+- Assets/Files/Planets/Track6[SnowWorld]/ReflectionProbe-0.exr
+- Assets/Files/Planets/Track7/Rock7.mat
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-10_comp_light.exr
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-7_comp_light.exr
+- Assets/Files/Planets/Track9[ForestWorld]/InstancedIndirectGrassVertexColor.jpg
+- Assets/Files/Planets/Track4/Cross.prefab
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-9_comp_light.exr
+- Assets/Files/Planets/Track12[FantasyWorld]/MushroomBottom.mat
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-5_comp_dir.png
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-10_comp_light.exr
+- Assets/Files/Planets/Track11[FantasyWorld]/drawing.png
+- Assets/Files/Planets/Track7/InstancedIndirectGrassVertexColor.jpg
+- Assets/Files/Planets/Track5/AdvSkyBox5.mat
+- Assets/Files/Planets/Track1/GrassField1.PNG
+- Assets/Files/Planets/Track7[IslandTropical]/ReflectionProbe-2.png
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-4_comp_light.exr
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-5_comp_dir.png
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-15_comp_light.exr
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-3_comp_light.exr
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-4_comp_light.exr
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-0_comp_light.exr
+- Assets/Files/Planets/Track7/WindowMat.mat
+- Assets/Files/Planets/Track4/Plane.blend
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-2_comp_dir.png
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-11_comp_light.exr
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-4_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/ReflectionProbe-15.exr
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-6_comp_dir.png
+- Assets/Files/Planets/Track11[FantasyWorld]/PP11 Profile.asset
+- Assets/Files/Planets/Track12[FantasyWorld]/GrassTrack12.mat
+- Assets/Files/Planets/Track4/Plus.blend
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-10_comp_light.exr
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-14_comp_dir.png
+- Assets/Files/Planets/Track10[ForestWorld]/ReflectionProbe-1.exr
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-9_comp_light.exr
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-12_comp_light.exr
+- Assets/Files/Planets/Track12[FantasyWorld]/MushroomTop.mat
+- Assets/Files/Planets/Track1/Track1.lighting
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-21_comp_dir.png
+- Assets/Files/Planets/Track4/Planet4.renderTexture
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-8_comp_light.exr
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-2_comp_dir.png
+- Assets/Files/Planets/Track4/Plus.png
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-10_comp_dir.png
+- Assets/Files/Planets/Track1/Planet1.renderTexture
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-6_comp_light.exr
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-5_comp_dir.png
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-2_comp_light.exr
+- Assets/Files/Planets/Track8[CrystalWorld]/PP8 Profile.asset
+- Assets/Files/Planets/Track5/GateMat.mat
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-2_comp_light.exr
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-8_comp_light.exr
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-4_comp_light.exr
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-0_comp_light.exr
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-1_comp_light.exr
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-0_comp_dir.png
+- Assets/Files/Planets/Track8[SnowWorld]/SnowBody.png
+- Assets/Files/Planets/Track1[GrassField]/ReflectionProbe-4.exr
+- Assets/Files/Planets/Track1[GrassField]/ReflectionProbe-5.exr
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-1_comp_light.exr
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-21_comp_light.exr
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-11_comp_light.exr
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-12_comp_dir.png
+- Assets/Files/Planets/Track10[ForestWorld]/ReflectionProbe-0.exr
+- Assets/Files/Planets/Track5/GroundGrey.mat
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-3_comp_dir.png
+- Assets/Files/Planets/Track12[FantasyWorld]/Iconmat.mat
+- Assets/Files/Planets/Track9[FireWorld]/PP9 Profile.asset
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-7_comp_dir.png
+- Assets/Files/Planets/Track9[FireWorld]/ReflectionProbe-0.exr
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-11_comp_dir.png
+- Assets/Files/Planets/Track3/Track3.lighting
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-0_comp_dir.png
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-0_comp_light.exr
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-9_comp_light.exr
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-10_comp_light.exr
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-9_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/DRdirection.anim
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-11_comp_light.exr
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-16_comp_light.exr
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-1_comp_light.exr
+- Assets/Files/Planets/Track11[IslandTropical]/TerrainMat.mat
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-4_comp_dir.png
+- Assets/Files/Planets/Track10/GroundMat10.mat
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-10_comp_dir.png
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-3_comp_light.exr
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-9_comp_dir.png
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-14_comp_dir.png
+- Assets/Files/Planets/Track7/SkyBox7.mat
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-17_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-16_comp_dir.png
+- Assets/Files/Planets/Track4/Sand.png
+- Assets/Files/Planets/Track1[GrassField]/ReflectionProbe-8.exr
+- Assets/Files/Planets/Track7/LavaEmission.jpg
+- Assets/Files/Planets/Track12[FantasyWorld]/Track12.lighting
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-7_comp_dir.png
+- Assets/Files/Planets/Track7[IslandTropical]/ReflectionProbe-3.exr
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-12_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-1_comp_dir.png
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-6_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-3_comp_dir.png
+- Assets/Files/Planets/Track4[WaterWorld]/ReflectionProbe-0.exr
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-2_comp_dir.png
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-12_comp_light.exr
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-11_comp_light.exr
+- Assets/Files/Planets/Track4/Cross.blend
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-2_comp_dir.png
+- Assets/Files/Planets/Track2/GrassTrack2.mat
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-11_comp_dir.png
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-13_comp_light.exr
+- Assets/Files/Planets/Track1[GrassField]/ReflectionProbe-7.exr
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-6_comp_light.exr
+- Assets/Files/Planets/Track7/VolcanoMat.mat
+- Assets/Files/Planets/Track8[CrystalWorld]/ReflectionProbe-1.exr
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-23_comp_dir.png
+- Assets/Files/Planets/Track9[FireWorld]/ReflectionProbe-1.exr
+- Assets/Files/Planets/Track4/Track4.lighting
+- Assets/Files/Planets/Track1/RoadMat1.mat
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-13_comp_dir.png
+- Assets/Files/Planets/Track9[ForestWorld]/MainTerrain8.blend
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-2_comp_light.exr
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-9_comp_dir.png
+- Assets/Files/Planets/Track5/Sky2.jpg
+- Assets/Files/Planets/Track2/Planet2.renderTexture
+- Assets/Files/Planets/Track3/DarkPinkTree.mat
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-1_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/DenseFog Profile.asset
+- Assets/Files/Planets/Track8[SnowWorld]/SnowManNose.mat
+- Assets/Files/Planets/Track2[SandWorld]/Global Volume Profile.asset
+- Assets/Files/Planets/Track5/SkyboxWW.mat
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-3_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-11_comp_light.exr
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-13_comp_dir.png
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-0_comp_dir.png
+- Assets/Files/Planets/Track7/Main Camera.prefab
+- Assets/Files/Planets/Track11[IslandTropical]/Tunnel11.blend
+- Assets/Files/Planets/Track4/DivideMap.png
+- Assets/Files/Planets/Track3/SkyBox3.mat
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-15_comp_light.exr
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-5_comp_light.exr
+- Assets/Files/Planets/Track6/Skybox6.mat
+- Assets/Files/Planets/Track12[FantasyWorld]/GlowBlue.mat
+- Assets/Files/Planets/Track1[GrassField]/ReflectionProbe-13.exr
+- Assets/Files/Planets/Track12[FantasyWorld]/ColorChangeAnime.anim
+- Assets/Files/Planets/Track8[SnowWorld]/SnowBump.mat
+- Assets/Files/Planets/Track1/GrassGround1.mat
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-12_comp_light.exr
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-1_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-7_comp_light.exr
+- Assets/Files/Planets/Track9[ForestWorld]/GrassTrack9.mat
+- Assets/Files/Planets/Track7/GroundMat7.mat
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-6_comp_light.exr
+- Assets/Files/Planets/Track3/Planet3.renderTexture
+- Assets/Files/Planets/Track6/Track6.lighting
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-3_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/ReflectionProbe-10.exr
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-1_comp_light.exr
+- Assets/Files/Planets/Track9[ForestWorld]/Sky9.mat
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-0_comp_light.exr
+- Assets/Files/Planets/Track5/Gate.002.png
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-4_comp_light.exr
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-8_comp_dir.png
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-3_comp_dir.png
+- Assets/Files/Planets/Track11[IslandTropical]/MainTerrain11.blend
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-13_comp_dir.png
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-17_comp_dir.png
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-1_comp_dir.png
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-6_comp_dir.png
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-3_comp_dir.png
+- Assets/Files/Planets/Track6/Tunnel.blend
+- Assets/Files/Planets/Track6/New Terrain.asset
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-12_comp_dir.png
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-7_comp_light.exr
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-12_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/ReflectionProbe-6.exr
+- Assets/Files/Planets/Track3/Track3.asset
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-10_comp_light.exr
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-4_comp_dir.png
+- Assets/Files/Planets/Track6[SnowWorld]/ReflectionProbe-1.exr
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-4_comp_light.exr
+- Assets/Files/Planets/Track4/DivideMat.mat
+- Assets/Files/Planets/Track11[IslandTropical]/AdvSkyBox11.mat
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-8_comp_dir.png
+- Assets/Files/Planets/Track4/CrossMat.mat
+- Assets/Files/Planets/Track4/SkyBox4.mat
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-8_comp_dir.png
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-11_comp_dir.png
+- Assets/Files/Planets/Track9[ForestWorld]/Track9.lighting
+- Assets/Files/Planets/Track3/PPTrack3.asset
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-5_comp_light.exr
+- Assets/Files/Planets/Track10/Track10.lighting
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-8_comp_light.exr
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-0_comp_light.exr
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-4_comp_light.exr
+- Assets/Files/Planets/Track5/Green.mat
+- Assets/Files/Planets/Track1/Shoulder1.mat
+- Assets/Files/Planets/Track12[FantasyWorld]/AdvSkyBox12.mat
+- Assets/Files/Planets/Track4/Divide.blend
+- Assets/Files/Planets/Track5/Track5.lighting
+- Assets/Files/Planets/Track6[SnowWorld]/Global Volume Profile.asset
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-4_comp_light.exr
+- Assets/Files/Planets/Track12[FantasyWorld]/PP11.controller
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-14_comp_dir.png
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-8_comp_dir.png
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-0_comp_dir.png
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-10_comp_dir.png
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-2_comp_dir.png
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-5_comp_light.exr
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-11_comp_dir.png
+- Assets/Files/Planets/Track1/brown - Copy.mat
+- Assets/Files/Planets/Track8[SnowWorld]/Track8.lighting
+- Assets/Files/Planets/Track5/gate.prefab
+- Assets/Files/Planets/Track11[IslandTropical]/Track11.lighting
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-13_comp_light.exr
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-7_comp_dir.png
+- Assets/Files/Planets/Track4/MountainMat.mat
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-4_comp_light.exr
+- Assets/Files/Planets/Track1/SkyBox1.mat
+- Assets/Files/Planets/Track1/Track1.terrainlayer
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-22_comp_dir.png
+- Assets/Files/Planets/Track1/AdvSkyBox1.mat
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-6_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/Nitros Profile.asset
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-5_comp_light.exr
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-7_comp_light.exr
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-2_comp_light.exr
+- Assets/Files/Planets/Track12[FantasyWorld]/UI.mat
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-18_comp_light.exr
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-1_comp_dir.png
+- Assets/Files/Planets/Track8[SnowWorld]/SkyBox8.mat
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-4_comp_dir.png
+- Assets/Files/Planets/Track2/InstancedIndirectGrassVertexColor.jpg
+- Assets/Files/Planets/Track2/SkyBox2 1.mat
+- Assets/Files/Planets/Track2[SandWorld]/ReflectionProbe-0.exr
+- Assets/Files/Planets/Track12[FantasyWorld]/GlowPink.mat
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-7_comp_dir.png
+- Assets/Files/Planets/Track4/Divide.prefab
+- Assets/Files/Planets/Track8[SnowWorld]/InstancedIndirectGrassVertexColor.jpg
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-6_comp_light.exr
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-7_comp_light.exr
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-9_comp_light.exr
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-8_comp_dir.png
+- Assets/Files/Planets/Track7/Track7.lighting
+- Assets/Files/Planets/Track9[FireWorld]/Lightmap-0_comp_light.exr
+- Assets/Files/Planets/Track7/Lamp.mat
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-11_comp_light.exr
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-10_comp_light.exr
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-1_comp_light.exr
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-9_comp_dir.png
+- Assets/Files/Planets/Track10/GrassTrack10.mat
+- Assets/Files/Planets/Track9[ForestWorld]/GrassColor.mat
+- Assets/Files/Planets/Track4/Water2.mat
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-5_comp_dir.png
+- Assets/Files/Planets/Track10/GlowRock.mat
+- Assets/Files/Planets/Track3/PinkLandsWater.mat
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-5_comp_light.exr
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-11_comp_dir.png
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-9_comp_dir.png
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-11_comp_light.exr
+- Assets/Files/Planets/Track1/Planet1.blend
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-8_comp_dir.png
+- Assets/Files/Planets/Track9[FireWorld]/Lightmap-1_comp_dir.png
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-1_comp_light.exr
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-7_comp_dir.png
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-10_comp_dir.png
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-5_comp_dir.png
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-20_comp_dir.png
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-0_comp_dir.png
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-12_comp_dir.png
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-14_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/DR.controller
+- Assets/Files/Planets/Track7/GrassTrack7.mat
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-16_comp_dir.png
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-2_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-3_comp_light.exr
+- Assets/Files/Planets/Track4/SunSet.mat
+- Assets/Files/Planets/Track5/Planet5.renderTexture
+- Assets/Files/Planets/Track5/Sky1.jpg
+- Assets/Files/Planets/Track8[SnowWorld]/SnowMan.prefab
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-16_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-8_comp_dir.png
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-8_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/ReflectionProbe-19.exr
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-13_comp_light.exr
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-14_comp_light.exr
+- Assets/Files/Planets/Track8[SnowWorld]/SnowManBody.mat
+- Assets/Files/Planets/Track4/CrossEmission.png
+- Assets/Files/Planets/Track1[GrassField]/ReflectionProbe-18.exr
+- Assets/Files/Planets/Track6[SnowWorld]/Track6PP Profile.asset
+- Assets/Files/Planets/Track11[IslandTropical]/Sky11.mat
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-7_comp_light.exr
+- Assets/Files/Planets/Track12[FantasyWorld]/GroundMat12.mat
+- Assets/Files/Planets/Track12[FantasyWorld]/Rainbow.blend
+- Assets/Files/Planets/Track1[GrassField]/ReflectionProbe-1.exr
+- Assets/Files/Planets/Track8[SnowWorld]/GroundMat8.mat
+- Assets/Files/Planets/Track8[SnowWorld]/GrassTrack8.mat
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-15_comp_dir.png
+- Assets/Files/Planets/Track8[CrystalWorld]/AdvSkyBox8.mat
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-3_comp_dir.png
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-11_comp_dir.png
+- Assets/Files/Planets/Track7/Lamp.png
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-6_comp_dir.png
+- Assets/Files/Planets/Track2[MountainRegion]/MountainTrack.blend
+- Assets/Files/Planets/Track4/CrossColor.png
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-1_comp_dir.png
+- Assets/Files/Planets/Track4/WaterSurface_single.tif
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-23_comp_light.exr
+- Assets/Files/Planets/Track5[StormWorld]/ReflectionProbe-1.exr
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-5_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-6_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/BlackCube.mat
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-19_comp_dir.png
+- Assets/Files/Planets/Track9[ForestWorld]/GroundMat9.mat
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-1_comp_dir.png
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-11_comp_light.exr
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-18_comp_light.exr
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-3_comp_light.exr
+- Assets/Files/Planets/Track11[IslandTropical]/BridgeMat.mat
+- Assets/Files/Planets/Track5/GroundMat5.mat
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-12_comp_light.exr
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-5_comp_light.exr
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-4_comp_dir.png
+- Assets/Files/Planets/Track1/InterCenter.mat
+- Assets/Files/Planets/Track7[IslandTropical]/ReflectionProbe-0.png
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-15_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/PL101.mat
+- Assets/Files/Planets/Track8[CrystalWorld]/Sky8.mat
+- Assets/Files/Planets/Track4/PlusMat.mat
+- Assets/Files/Planets/Track4/Transparant.mat
+- Assets/Files/Planets/Track1/Skybox.mat
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-7_comp_dir.png
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-14_comp_light.exr
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-18_comp_dir.png
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-12_comp_light.exr
+- Assets/Files/Planets/Track3[PinkPlains]/ReflectionProbe-0.exr
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-3_comp_dir.png
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-1_comp_light.exr
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-2_comp_light.exr
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-10_comp_dir.png
+- Assets/Files/Planets/Track3/InstancedIndirectGrassVertexColor.jpg
+- Assets/Files/Planets/Track5/gate.blend
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-9_comp_dir.png
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-9_comp_light.exr
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-14_comp_light.exr
+- Assets/Files/Planets/Track2/GrassGround2.mat
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-14_comp_dir.png
+- Assets/Files/Planets/Track4/InstancedIndirectGrassVertexColor.jpg
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-0_comp_dir.png
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-9_comp_dir.png
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-2_comp_light.exr
+- Assets/Files/Planets/Track7[IslandTropical]/ReflectionProbe-1.exr
+- Assets/Files/Planets/Track4/Plane4.blend
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-22_comp_light.exr
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-13_comp_light.exr
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-11_comp_dir.png
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-5_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-13_comp_light.exr
+- Assets/Files/Planets/Track4/Water.mat
+- Assets/Files/Planets/Track7[IslandTropical]/PP7 Profile.asset
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-9_comp_dir.png
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-11_comp_dir.png
+- Assets/Files/Planets/Track8[SnowWorld]/SnowMan.blend
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-8_comp_light.exr
+- Assets/Files/Planets/Track7/Lamp.blend
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-9_comp_dir.png
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-15_comp_dir.png
+- Assets/Files/Planets/Track3[PinkPlains]/ReflectionProbe-1.exr
+- Assets/Files/Planets/Track4/Plus.prefab
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-21_comp_dir.png
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-20_comp_light.exr
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-6_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-6_comp_light.exr
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-16_comp_light.exr
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-12_comp_dir.png
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-7_comp_light.exr
+- Assets/Files/Planets/Track5/ShadeGate.png
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-12_comp_light.exr
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-15_comp_light.exr
+- Assets/Files/Planets/Track5[StormWorld]/ReflectionProbe-0.exr
+- Assets/Files/Planets/Track8[SnowWorld]/Ice.mat
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-11_comp_dir.png
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-21_comp_light.exr
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-3_comp_light.exr
+- Assets/Files/Planets/Track6/GroundMat6.mat
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-5_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-12_comp_light.exr
+- Assets/Files/Planets/Track6[SnowWorld]/Crystal.mat
+- Assets/Files/Planets/Track12[MountainRegion]/ReflectionProbe-0.exr
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-2_comp_light.exr
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-5_comp_light.exr
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-3_comp_light.exr
+- Assets/Files/Planets/Track12[FantasyWorld]/InstancedIndirectGrassVertexColor.jpg
+- Assets/Files/Planets/Track4[WaterWorld]/ReflectionProbe-1.exr
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-3_comp_light.exr
+- Assets/Files/Planets/Track5[StormWorld]/Global Volume (1) Profile.asset
+- Assets/Files/Planets/Track8[SnowWorld]/IceMountain.mat
+- Assets/Files/Planets/Track6[SnowWorld]/Crystals.blend
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-0_comp_light.exr
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-0_comp_dir.png
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-10_comp_light.exr
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-1_comp_light.exr
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-0_comp_dir.png
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-9_comp_light.exr
+- Assets/Files/Planets/Track9[ForestWorld]/SkyBox9.mat
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-1_comp_light.exr
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-20_comp_light.exr
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-7_comp_light.exr
+- Assets/Files/Planets/Track1/GrassTrack1.mat
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-10_comp_dir.png
+- Assets/Files/Planets/Track11[IslandTropical]/IslandTexture.png
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-13_comp_light.exr
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-4_comp_dir.png
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-22_comp_light.exr
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-3_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-14_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/TimeLImeTrackViewTimeline.playable
+- Assets/Files/Planets/Track1/brown.mat
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-8_comp_light.exr
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-19_comp_light.exr
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-14_comp_light.exr
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-2_comp_light.exr
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-4_comp_light.exr
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-0_comp_light.exr
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-19_comp_dir.png
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-12_comp_dir.png
+- Assets/Files/Planets/Track4/PlusEmission.png
+- Assets/Files/Planets/Track6/Planet6.renderTexture
+- Assets/Files/Planets/Track7/Lamp.prefab
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-14_comp_light.exr
+- Assets/Files/Planets/Track6/GrassTrack6.mat
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-15_comp_light.exr
+- Assets/Files/Planets/Track12[FantasyWorld]/MushroomHead.png
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-7_comp_dir.png
+- Assets/Files/Planets/Track12[MountainRegion]/Lightmap-2_comp_dir.png
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-4_comp_dir.png
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-6_comp_light.exr
+- Assets/Files/Planets/Track6[SnowWorld]/SkyboxCW.mat
+- Assets/Files/Planets/Track2[MountainRegion]/MountainMat.mat
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-12_comp_light.exr
+- Assets/Files/Planets/Track6[SnowWorld]/Lightmap-5_comp_dir.png
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-0_comp_dir.png
+- Assets/Files/Planets/Track5/GroundGreen.mat
+- Assets/Files/Planets/Track8[SnowWorld]/SnowManHand.mat
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-13_comp_dir.png
+- Assets/Files/Planets/Track9[FireWorld]/Global Volume Profile.asset
+- Assets/Files/Planets/Track1/PPTrack1.asset
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-10_comp_light.exr
+- Assets/Files/Planets/Track11[IslandTropical]/Bridge11.blend
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-8_comp_light.exr
+- Assets/Files/Planets/Track8[CrystalWorld]/ReflectionProbe-0.exr
+- Assets/Files/Planets/Track2[SandWorld]/Lightmap-8_comp_light.exr
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-6_comp_light.exr
+- Assets/Files/Planets/Track7/Volcano.prefab
+- Assets/Files/Planets/Track12[FantasyWorld]/Mushroom.blend
+- Assets/Files/Planets/Track7/Volcano.png
+- Assets/Files/Planets/Track7/LampEmission.png
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-12_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/ReflectionProbe-3.exr
+- Assets/Files/Planets/Track5/Skybox-5.mat
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-1_comp_dir.png
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-16_comp_light.exr
+- Assets/Files/Planets/Track6/InstancedIndirectGrassVertexColor.jpg
+- Assets/Files/Planets/Track7/Volcano.blend
+- Assets/Files/Planets/Track1[GrassField]/ReflectionProbe-12.exr
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-18_comp_dir.png
+- Assets/Files/Planets/Track1/Track1.asset
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-2_comp_dir.png
+- Assets/Files/Planets/Track1[GrassField]/ReflectionProbe-14.exr
+- Assets/Files/Planets/Track10[ForestWorld]/Lightmap-2_comp_light.exr
+- Assets/Files/Planets/Track3/GrassGround3.mat
+- Assets/Files/Planets/Track2/PPTrack2.asset
+- Assets/Files/Planets/Track2/Track2.lighting
+- Assets/Files/Planets/Track4[WaterWorld]/Lightmap-17_comp_light.exr
+- Assets/Files/Planets/Track2[MountainRegion]/Planet2.blend
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-5_comp_light.exr
+- Assets/Files/Planets/Track10/SkyBox10.mat
+- Assets/Files/Planets/Track10[ForestWorld]/PP10 Profile.asset
+- Assets/Files/Planets/Track10/AdvSkyBox10.mat
+- Assets/Files/Planets/Track4/GrassTrack4.mat
+- Assets/Files/Planets/Track3[PinkPlains]/Lightmap-0_comp_light.exr
+- Assets/Files/Planets/Track4/New Terrain.asset
+- Assets/Files/Planets/Track4/WaterSurface_atlas.tif
+- Assets/Files/Planets/Track5[StormWorld]/Lightmap-8_comp_light.exr
+- Assets/Files/Planets/Track1[GrassField]/ReflectionProbe-17.exr
+- Assets/Files/Planets/Track8[CrystalWorld]/Lightmap-8_comp_light.exr
+- Assets/Files/Planets/Track1[GrassField]/Lightmap-14_comp_light.exr
+Dependencies:
+- D:/Project/Unity/Planet Racing/Assets/AssetBundle/carmeshtexture
