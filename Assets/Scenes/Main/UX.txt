@@ -1,0 +1,49 @@
+StartScreen:
+	Race:
+		Event:
+		EscaperLevel:
+		Systems(planets):
+			World1:
+			World2:
+			World3:
+		CarFight:
+		CarFightLevel:
+	Shop:
+		Buy:
+		Sell:
+	Garage:
+		Customise:
+			Modification
+			Paint	
+	Profile:
+		Details:
+		Cars:
+	Settings:
+	Leaderboard:
+		Reputation:
+		fastestTrackComplete:
+		FastestCar:
+		EscaperLevelList;
+		CarFightList;
+		//CarTravelled:
+	Guild:
+		
+	Mailbox:
+		Messages
+		DailyReward
+		ReputationBasedReward
+		KingDefeatReward
+		
+	Achievements
+	IAP:
+		Coins:
+		Gems:
+		VinylSkin:
+		Bundle:
+		Subscription:
+
+****
+No of currency:
+	Coins
+	Gems
+	Customise Tickets 

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512px"
+   height="512px"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="Loading.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:export-filename="Loading.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview144"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.4503086"
+     inkscape:cx="165.13726"
+     inkscape:cy="303.03894"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs139">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient15079">
+      <stop
+         style="stop-color:#1b4042;stop-opacity:0;"
+         offset="0"
+         id="stop15087" />
+      <stop
+         style="stop-color:#1b4042;stop-opacity:1;"
+         offset="0.50000006"
+         id="stop15075" />
+      <stop
+         style="stop-color:#1b4042;stop-opacity:0;"
+         offset="1"
+         id="stop15077" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient15025"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#1b4042;stop-opacity:1;"
+         offset="0"
+         id="stop15023" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4173"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#1b4042;stop-opacity:1;"
+         offset="0"
+         id="stop4171" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1044"
+       x="-0.26131375"
+       y="-0.26489571"
+       width="1.5226275"
+       height="1.5297914">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="34.560043"
+         id="feGaussianBlur1046" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4173"
+       id="radialGradient7601"
+       cx="131.53012"
+       cy="181.83667"
+       fx="131.53012"
+       fy="181.83667"
+       r="199.99998"
+       gradientTransform="matrix(0.77102768,0.34418527,-0.34269088,0.76769758,105.82825,2.2751929)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15079"
+       id="linearGradient15083"
+       x1="-7.305985"
+       y1="257.70059"
+       x2="523.08051"
+       y2="254.97975"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.6273221,0,0,0.6371196,89.326188,86.772442)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="display:inline;opacity:1;mix-blend-mode:normal;fill:#ffd42a;stroke:url(#linearGradient15083);stroke-width:16.7877;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse1048"
+       cx="250.81108"
+       cy="249.22505"
+       rx="158.32605"
+       ry="158.62442"
+       transform="matrix(0.99998862,0.00477032,-0.00475239,0.99998871,0,0)" />
+    <ellipse
+       style="display:inline;opacity:0.640957;mix-blend-mode:normal;fill:#ffd42a;stroke:#000000;stroke-width:97.9174;stroke-opacity:0;filter:url(#filter1044)"
+       id="path380"
+       cx="257.4194"
+       cy="254.97975"
+       rx="252.38397"
+       ry="248.97119"
+       transform="matrix(0.65868071,0.00314215,-0.00317923,0.66896803,85.586611,84.617853)" />
+    <ellipse
+       style="opacity:1;mix-blend-mode:normal;fill:#008000;fill-opacity:1;stroke:url(#radialGradient7601);stroke-width:54.9042;stroke-opacity:0"
+       id="ellipse2507"
+       cx="250.70337"
+       cy="249.05785"
+       rx="140.4245"
+       ry="140.68913"
+       transform="matrix(0.99998862,0.00477032,-0.00475239,0.99998871,0,0)"
+       inkscape:export-filename="ellipse2507.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
