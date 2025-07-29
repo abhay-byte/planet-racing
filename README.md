@@ -1,6 +1,9 @@
 # Fantasy Racing - Star Alliance
 
-![Fantasy Racing - Star Alliance Icon](https://play-lh.googleusercontent.com/ahEzsxqDQECh0-ZDFYwvNn0pXe6pANJHKX9l5Qse3mPecMHarXpGw6l8BsZEGwt63Q=s112)
+<a href="https://play.google.com/store/apps/details?id=com.ivarnagames.fantasyracer&hl=en&pli=1">
+    <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"/>
+</a>
+
 
 ## About The Project
 
