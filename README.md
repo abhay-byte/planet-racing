@@ -64,8 +64,3 @@ The game is available for Android devices.
 *   **Requires Android:** 5.0 and up
 *   **Download Size:** 669 MB
 
-For more information and to download the game, please visit the project's GitHub repository: [https://github.com/abhay-byte/planet-racing/](https://github.com/abhay-byte/planet-racing/)
-
----
-
-*This README was generated based on the project description and available information.*```
